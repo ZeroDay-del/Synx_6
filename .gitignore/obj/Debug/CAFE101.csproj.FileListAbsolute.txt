@@ -1,0 +1,65 @@
+<<<<<<< HEAD
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\bin\Debug\CAFE101.exe.config
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\bin\Debug\CAFE101.exe
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\bin\Debug\CAFE101.pdb
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.csproj.AssemblyReference.cache
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Home_Form.resources
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.kitchenScreen.resources
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.ManageEmployees.resources
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.ManageIngredients.resources
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.ManageMenuItem.resources
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Properties.Resources.resources
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.csproj.GenerateResource.cache
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.csproj.CoreCompileInputs.cache
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.exe
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.pdb
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.Manager.resources
+C:\Users\Akithi\OneDrive - University of KwaZulu-Natal\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.SaleReport.resources
+C:\Users\sines\Documents\GitHub\Synx_6\bin\Debug\CAFE101.exe.config
+C:\Users\sines\Documents\GitHub\Synx_6\bin\Debug\CAFE101.exe
+C:\Users\sines\Documents\GitHub\Synx_6\bin\Debug\CAFE101.pdb
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.csproj.AssemblyReference.cache
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Home_Form.resources
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.IngredientsRestockingReport.resources
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.kitchenScreen.resources
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.ManageEmployees.resources
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.ManageIngredients.resources
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.ManageMenuItem.resources
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.Manager.resources
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.SaleReport.resources
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Properties.Resources.resources
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.csproj.GenerateResource.cache
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.csproj.CoreCompileInputs.cache
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.exe
+C:\Users\sines\Documents\GitHub\Synx_6\obj\Debug\CAFE101.pdb
+=======
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\bin\Debug\CAFE101.exe.config
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\bin\Debug\CAFE101.exe
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\bin\Debug\CAFE101.pdb
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\obj\Debug\CAFE101.csproj.AssemblyReference.cache
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\obj\Debug\CAFE101.Home_Form.resources
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\obj\Debug\CAFE101.Business.kitchenScreen.resources
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\obj\Debug\CAFE101.Business.ManageIngredients.resources
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\obj\Debug\CAFE101.Business.ManageMenuItem.resources
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\obj\Debug\CAFE101.Properties.Resources.resources
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\obj\Debug\CAFE101.csproj.GenerateResource.cache
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\obj\Debug\CAFE101.csproj.CoreCompileInputs.cache
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\obj\Debug\CAFE101.exe
+C:\Users\anoth\OneDrive\Documents\University\ISTN 3AS\Cafe 101 Smart Ordering System\CAFE101\obj\Debug\CAFE101.pdb
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\bin\Debug\CAFE101.exe.config
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\bin\Debug\CAFE101.exe
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\bin\Debug\CAFE101.pdb
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.csproj.AssemblyReference.cache
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.exe.config
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Home_Form.resources
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.IngredientsRestockingReport.resources
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.kitchenScreen.resources
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.ManageEmployees.resources
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.ManageIngredients.resources
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Business.ManageMenuItem.resources
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.Properties.Resources.resources
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.csproj.GenerateResource.cache
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.csproj.CoreCompileInputs.cache
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.exe
+C:\Users\Smart Axis\Documents\GitHub\Synx_6\obj\Debug\CAFE101.pdb
+>>>>>>> bfcfdc713934cee6721c72bd012fc661c599b47c
